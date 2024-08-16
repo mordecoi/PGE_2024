@@ -683,3 +683,17 @@ void despachadorDeEventos(Jugador &jugador, Mapa &mapa)
         }
     }
 }
+
+void jugarAventura() {
+    cout << "\tBienvenido a la aventura Pokémon!" << endl;
+    string nombreJugador;
+    cout << "\t¿Cuál es tu nombre? ";
+    getline(cin, nombreJugador);
+
+    Jugador jugador(nombreJugador);
+    jugador.agregarPokemon(seleccionarPokemonUsuario());
+
+    Mapa mapa = inicializarMapa();
+
+    despachadorDeEventos(jugador, mapa);
+}
