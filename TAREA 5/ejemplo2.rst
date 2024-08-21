@@ -67,7 +67,6 @@ La clase **EventDispatcher** actúa como el núcleo de la administración de eve
         }
     }
 
-
 **Explicación del Código:**
 
 * **Diccionario de Manejadores de Eventos:** Almacena los manejadores de eventos, utilizando el nombre del evento como clave.
