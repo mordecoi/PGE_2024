@@ -111,6 +111,7 @@ En este código de ejemplo, la simulación del bucle se realiza de manera simpli
 **Ejemplo Completo**
 
 Se incluye un ejemplo completo que demuestra la creación de un `EventDispatcher`, la suscripción y desuscripción de eventos, el manejo global de eventos y el despacho de eventos.
+
 .. code-block:: csharp
 
     using System;
