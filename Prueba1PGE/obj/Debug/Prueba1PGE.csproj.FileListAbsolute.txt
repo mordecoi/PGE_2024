@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Prueba1PGE\bin\Debug\Prueba1PGE.exe.config
+C:\Users\Maxi\source\repos\Prueba1PGE\bin\Debug\Prueba1PGE.exe
+C:\Users\Maxi\source\repos\Prueba1PGE\bin\Debug\Prueba1PGE.pdb
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.Form1.resources
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.exe
+C:\Users\Maxi\source\repos\Prueba1PGE\obj\Debug\Prueba1PGE.pdb
