@@ -1,0 +1,14 @@
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\bin\Debug\SistemaGestionPersonas.exe.config
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\bin\Debug\SistemaGestionPersonas.exe
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\bin\Debug\SistemaGestionPersonas.pdb
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.ventana1.resources
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.Properties.Resources.resources
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.exe
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.pdb
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.FormAddEmpleado.resources
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.FormAddEstudiante.resources
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.FormAddTrabajador.resources
+C:\Users\Maxi\source\repos\SistemaGestionPersonas\obj\Debug\SistemaGestionPersonas.FormMostrarTrabajadores.resources
