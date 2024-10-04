@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\CalculadoraPropinas\bin\Debug\CalculadoraPropinas.exe.config
+C:\Users\Maxi\source\repos\CalculadoraPropinas\bin\Debug\CalculadoraPropinas.exe
+C:\Users\Maxi\source\repos\CalculadoraPropinas\bin\Debug\CalculadoraPropinas.pdb
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\MainWindow.g.cs
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\App.g.cs
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas_MarkupCompile.cache
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas_MarkupCompile.lref
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\MainWindow.baml
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.g.resources
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.Properties.Resources.resources
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.exe
+C:\Users\Maxi\source\repos\CalculadoraPropinas\obj\Debug\CalculadoraPropinas.pdb

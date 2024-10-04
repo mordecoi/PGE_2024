@@ -1,0 +1,36 @@
+﻿<Window x:Class="ConversorDeUnidades.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConversorDeUnidades"
+        mc:Ignorable="d"
+        Title="Conversor de unidades" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="txtConvertir" Text="200"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ComboBox x:Name="unidadesA" Grid.Column="0">
+                <ComboBoxItem Content="Kilometros"/>
+                <ComboBoxItem Content="Metros"/>
+                <ComboBoxItem Content="Centimetros"/>
+                <ComboBoxItem Content="Kilogramos"/>
+                <ComboBoxItem Content="Gramos"/>
+                <ComboBoxItem Content="Centigramos"/>
+            </ComboBox>
+            <ComboBox x:Name="unidadesB" Grid.Column="1">
+                <ComboBoxItem Content="Kilometros"/>
+                <ComboBoxItem Content="Metros"/>
+                <ComboBoxItem Content="Centimetros"/>
+                <ComboBoxItem Content="Kilogramos"/>
+                <ComboBoxItem Content="Gramos"/>
+                <ComboBoxItem Content="Centigramos"/>
+            </ComboBox>
+        </Grid>
+        <Button x:Name="btnConvertir" Content="Convertir" Width="200" Click="btnConvertir_Click"/>
+        <Label x:Name="unidadConvertida" Width="200"/>
+    </StackPanel>
+</Window>

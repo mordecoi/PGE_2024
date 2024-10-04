@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\JuegoAdivinanza\bin\Debug\JuegoAdivinanza.exe.config
+C:\Users\Maxi\source\repos\JuegoAdivinanza\bin\Debug\JuegoAdivinanza.exe
+C:\Users\Maxi\source\repos\JuegoAdivinanza\bin\Debug\JuegoAdivinanza.pdb
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.Form1.resources
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.Properties.Resources.resources
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.exe
+C:\Users\Maxi\source\repos\JuegoAdivinanza\obj\Debug\JuegoAdivinanza.pdb

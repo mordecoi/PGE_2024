@@ -1,0 +1,57 @@
+﻿<Window x:Class="Conversor_de_divisas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conversor_de_divisas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Conversor de divisas" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1" IsEnabled="False"/>
+        <TextBox x:Name="txtCantidadTransformada" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"/>
+        <Label x:Name="txtDe" Content="De" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="2" Grid.Column="0"/>
+        <Button x:Name="ARS1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Click="ARS_Click" Height="64" Width="64">
+            <Button.Background>
+                <ImageBrush ImageSource="https://www.worldometers.info/img/flags/small/tn_ar-flag.gif" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="USD1" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Click="USD_Click" Height="64" Width="64" Margin="99,0,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" Stretch="Fill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="EUR1" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Click="EUR_Click" Height="64" Width="64" Margin="237,0,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/255px-Flag_of_Europe.svg.png" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="txtA" Content="A" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="2" Grid.Column="1"/>
+        <Button x:Name="ARS2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Click="ARS2_Click" Height="64" Width="64" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="https://www.worldometers.info/img/flags/small/tn_ar-flag.gif" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="USD2" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Click="USD2_Click" Height="64" Width="64" Margin="99,0,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" Stretch="Fill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="EUR2" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Click="EUR2_Click" Height="64" Width="64" Margin="237,0,0,0">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/255px-Flag_of_Europe.svg.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnConvertir" Content="Convertir" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.ColumnSpan="2" Click="btnConvertir_Click"/>
+    </Grid>
+</Window>

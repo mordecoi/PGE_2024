@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\bin\Debug\LectorArchivosDeTexto.exe.config
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\bin\Debug\LectorArchivosDeTexto.exe
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\bin\Debug\LectorArchivosDeTexto.pdb
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.Form1.resources
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.Properties.Resources.resources
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.exe
+C:\Users\Maxi\source\repos\LectorArchivosDeTexto\obj\Debug\LectorArchivosDeTexto.pdb

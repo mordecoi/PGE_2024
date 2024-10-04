@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\Conversor_de_divisas\bin\Debug\Conversor_de_divisas.exe.config
+C:\Users\Maxi\source\repos\Conversor_de_divisas\bin\Debug\Conversor_de_divisas.exe
+C:\Users\Maxi\source\repos\Conversor_de_divisas\bin\Debug\Conversor_de_divisas.pdb
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\MainWindow.g.cs
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\App.g.cs
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas_MarkupCompile.cache
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas_MarkupCompile.lref
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\MainWindow.baml
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.g.resources
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.exe
+C:\Users\Maxi\source\repos\Conversor_de_divisas\obj\Debug\Conversor_de_divisas.pdb
